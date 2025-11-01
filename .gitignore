@@ -1,0 +1,61 @@
+# Claude Usage Tracker - .gitignore
+
+# Personal submission and marketing guides (not for public repo)
+CHROME_WEB_STORE_GUIDE.md
+SUBMISSION_CHECKLIST.md
+SCREENSHOT_GUIDE.md
+SOCIAL_MEDIA_ASSETS.md
+LAUNCH.md
+PROJECT_OVERVIEW.md
+START_HERE.md
+WINDOWS_QUICK_START.txt
+
+# Build artifacts
+*.zip
+dist/
+build/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Node modules (if you add any build tools later)
+node_modules/
+
+# Personal notes
+notes.txt
+TODO.txt
+ideas.txt
