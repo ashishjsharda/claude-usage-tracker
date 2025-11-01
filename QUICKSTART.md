@@ -217,21 +217,19 @@ Planned shortcuts:
 
 ### Community
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Discord: [Join our server](#)
-- Email: your.email@example.com
+- Twitter: [@ashishjsharda](https://x.com/ashishjsharda)
+- Email: ashishjsharda@gmail.com
 
 ## What's Next?
 
 ### Coming Soon
-- Chrome Web Store listing
 - Firefox version
 - More detailed analytics
 - Team features
 
 ### Stay Updated
 - ⭐ Star on [GitHub](https://github.com/ashishjsharda/claude-usage-tracker)
-- 🐦 Follow on [Twitter](https://twitter.com/yourusername)
+- 🐦 Follow on [Twitter](https://x.com/ashishjsharda)
 - 📧 Subscribe to [updates](#)
 
 ---
