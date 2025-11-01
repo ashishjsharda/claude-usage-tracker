@@ -17,8 +17,8 @@ A beautiful Chrome extension for real-time monitoring of your Claude AI usage wi
 - **🌙 Dark Theme** - Eye-friendly design perfect for any time of day
 
 ## 📸 Screenshots
-
-[Coming soon - Add screenshots of your extension]
+<img width="1280" height="800" alt="Untitled (1280 x 800 px)" src="https://github.com/user-attachments/assets/592f2f45-ca5e-41dc-be11-f28f5e687b7f" /> 
+<img width="1280" height="800" alt="Untitled (1280 x 800 px) (1)" src="https://github.com/user-attachments/assets/cd5779bb-f76c-42b8-83fd-f4c6ba7a7536" />
 
 ## 🎯 What It Tracks
 
@@ -40,7 +40,7 @@ A beautiful Chrome extension for real-time monitoring of your Claude AI usage wi
 
 1. **Download the extension**
    ```bash
-   git clone https://github.com/yourusername/claude-usage-tracker.git
+   git clone https://github.com/ashishjsharda/claude-usage-tracker.git
    cd claude-usage-tracker
    ```
 
@@ -139,15 +139,14 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 🙏 Acknowledgments
 
-- Inspired by the Usage4Claude Mac app
 - Built with ❤️ for the Claude community
 - Icons from [Lucide Icons](https://lucide.dev)
 
 ## 📧 Contact
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
-- Issues: [GitHub Issues](https://github.com/yourusername/claude-usage-tracker/issues)
+- Twitter: [@ashishjsharda](https://x.com/ashishjsharda)
+- Email: ashishjsharda@gmail.com
+- Issues: [GitHub Issues](https://github.com/ashishjsharda/claude-usage-tracker/issues)
 
 ## ⭐ Show Your Support
 
@@ -160,6 +159,6 @@ If you find this extension helpful, please:
 
 ---
 
-**Made with 💜 by [Your Name]**
+**Made with 💜 by Ashish Sharda**
 
 *Not affiliated with Anthropic PBC*
