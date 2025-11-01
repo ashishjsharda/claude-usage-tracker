@@ -18,7 +18,9 @@ A beautiful Chrome extension for real-time monitoring of your Claude AI usage wi
 
 ## 📸 Screenshots
 
-[Coming soon - Add screenshots of your extension]
+<img width="1280" height="800" alt="Untitled (1280 x 800 px)" src="https://github.com/user-attachments/assets/a912ba58-e10a-49d9-9075-2cec1b725713" />
+
+<img width="1280" height="800" alt="Untitled (1280 x 800 px) (1)" src="https://github.com/user-attachments/assets/23e4379c-3e0f-4501-a87f-baade9ce7845" />
 
 ## 🎯 What It Tracks
 
@@ -145,8 +147,8 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 📧 Contact
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- Twitter: [@ashishjsharda](https://x.com/ashishjsharda)
+- Email: ashishjsharda@gmail.com
 - Issues: [GitHub Issues](https://github.com/ashishjsharda/claude-usage-tracker/issues)
 
 ## ⭐ Show Your Support
@@ -160,6 +162,6 @@ If you find this extension helpful, please:
 
 ---
 
-**Made with 💜 by [Your Name]**
+**Made with 💜 by Ashish Sharda**
 
 *Not affiliated with Anthropic PBC*
