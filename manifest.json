@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Claude Usage Tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautiful real-time monitoring of your Claude AI usage with insights and analytics",
   "permissions": [
     "storage",

@@ -6,10 +6,10 @@ chrome.runtime.onInstalled.addListener(async (details) => {
     // First time installation
     await initializeStorage();
     
-    // Open welcome page
-    chrome.tabs.create({
-      url: 'https://github.com/yourusername/claude-usage-tracker'
-    });
+    // Open welcome page (optional - comment out if you don't want this)
+    // chrome.tabs.create({
+    //   url: 'https://github.com/ashishjsharda/claude-usage-tracker'
+    // });
     
     console.log('Claude Usage Tracker: Extension installed');
   } else if (details.reason === 'update') {
