@@ -120,7 +120,7 @@ We may update this privacy policy occasionally. Changes will be:
 - Announced in the extension's changelog
 
 You can always find the latest version at:
-- GitHub: https://github.com/yourusername/claude-usage-tracker/blob/main/PRIVACY.md
+- GitHub: https://github.com/ashishjsharda/claude-usage-tracker/blob/main/PRIVACY.md
 
 ## Open Source Transparency
 
@@ -131,7 +131,7 @@ Claude Usage Tracker is completely open source. You can:
 - See exactly how data is handled
 - Contribute improvements
 
-**GitHub Repository:** https://github.com/yourusername/claude-usage-tracker
+**GitHub Repository:** https://github.com/ashishjsharda/claude-usage-tracker
 
 ## Compliance
 
@@ -146,7 +146,7 @@ This extension complies with:
 
 If you have questions about this privacy policy or data practices:
 
-- **GitHub Issues:** https://github.com/yourusername/claude-usage-tracker/issues
+- **GitHub Issues:** https://github.com/ashishjsharda/claude-usage-tracker/issues
 - **Email:** your.email@example.com
 - **Twitter:** @yourusername
 

@@ -8,7 +8,7 @@ Get up and running with Claude Usage Tracker in under 2 minutes! ⚡
 
 1. **Download the extension**
    ```bash
-   git clone https://github.com/yourusername/claude-usage-tracker.git
+   git clone https://github.com/ashishjsharda/claude-usage-tracker.git
    ```
    
    Or download as ZIP from GitHub and extract
@@ -204,16 +204,16 @@ Planned shortcuts:
 ### Getting Help
 
 **Bug Reports:**
-- [Open an issue](https://github.com/yourusername/claude-usage-tracker/issues)
+- [Open an issue](https://github.com/ashishjsharda/claude-usage-tracker/issues)
 - Include Chrome version, OS, and steps to reproduce
 
 **Feature Requests:**
-- [Submit a feature request](https://github.com/yourusername/claude-usage-tracker/issues/new)
+- [Submit a feature request](https://github.com/ashishjsharda/claude-usage-tracker/issues/new)
 - Describe the feature and why it's useful
 
 **Questions:**
-- Check the [FAQ](https://github.com/yourusername/claude-usage-tracker#faq)
-- Ask in [Discussions](https://github.com/yourusername/claude-usage-tracker/discussions)
+- Check the [FAQ](https://github.com/ashishjsharda/claude-usage-tracker#faq)
+- Ask in [Discussions](https://github.com/ashishjsharda/claude-usage-tracker/discussions)
 
 ### Community
 
@@ -230,7 +230,7 @@ Planned shortcuts:
 - Team features
 
 ### Stay Updated
-- ⭐ Star on [GitHub](https://github.com/yourusername/claude-usage-tracker)
+- ⭐ Star on [GitHub](https://github.com/ashishjsharda/claude-usage-tracker)
 - 🐦 Follow on [Twitter](https://twitter.com/yourusername)
 - 📧 Subscribe to [updates](#)
 
